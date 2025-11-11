@@ -1,7 +1,7 @@
 <h1 align="center">Oi, eu sou a Karina 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=FFB6C1&center=true&vCenter=true&width=435&lines=Desenvolvedora+em+transi%C3%A7%C3%A3o.;Apaixonada+por+ciberseguran%C3%A7a.;Aprendendo+algo+novo+todo+dia." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=FFB6C1&center=true&vCenter=true&width=435&lines=Apaixonada+por+cybersecurity.;Aprendendo+algo+novo+todo+dia." alt="Typing SVG" />
 </p>
 
 ---
@@ -10,8 +10,7 @@
 
 🌸 Estudante de Ciências da Computação  
 🔐 Focada em migrar para a área de Cibersegurança  
-🎯 Curiosa, determinada e apaixonada por aprender  
-📚 Atualmente estudando Python, Redes e Pentest
+🎯 Curiosa, determinada e apaixonada por aprender 
 
 ---
 
